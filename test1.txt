@@ -8,3 +8,4 @@ I have started full strack web development job in 2021
 I will be a full stract web developer. May Allah help me.
 logo alignment is centered.
 Headline is centered.
+new line is added in feature branch
